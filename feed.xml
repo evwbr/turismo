@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/turismo/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/turismo/</link>
 <description>Turismo e viagem reescrito com IA - Evo Web News</description>
-<lastBuildDate>Thu, 15 Jan 2026 15:41:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 15:41:14 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Museu do Louvre aumenta preço dos ingressos para turistas fora da Europa]]></title>
-<link>https://g1.globo.com/turismo-e-viagem/noticia/2026/01/15/museu-do-louvre-fica-45percent-mais-caro-para-turistas-nao-europeus-acho-injusto-diz-brasileira.ghtml</link>
+<title><![CDATA[Busca por alpinista desaparecido no Piemonte utiliza drones e inteligência artificial]]></title>
+<link>https://g1.globo.com/tecnologia/noticia/2026/01/16/ia-ajuda-a-resolver-misterio-de-alpinista-desaparecido-e-vira-esperanca-para-equipes-de-resgate-em-montanhas.ghtml</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 15:01:02 GMT</pubDate>
+<pubDate>Fri, 16 Jan 2026 14:33:24 GMT</pubDate>
 <category><![CDATA[Turismo]]></category>
-<guid isPermaLink="false"><![CDATA[https://g1.globo.com/turismo-e-viagem/noticia/2026/01/15/museu-do-louvre-fica-45percent-mais-caro-para-turistas-nao-europeus-acho-injusto-diz-brasileira.ghtml]]></guid>
-<description><![CDATA[O Museu do Louvre, em Paris, elevou o valor dos ingressos para visitantes provenientes de países fora do Espaço Econômico Europeu, gerando reações diversas entre os turistas.]]></description>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/tecnologia/noticia/2026/01/16/ia-ajuda-a-resolver-misterio-de-alpinista-desaparecido-e-vira-esperanca-para-equipes-de-resgate-em-montanhas.ghtml]]></guid>
+<description><![CDATA[Equipes de resgate no Piemonte empregaram drones e inteligência artificial para localizar o corpo de um alpinista desaparecido nas montanhas dos Alpes italianos.]]></description>
 <content:encoded><![CDATA[
-<p>Desde o dia 14 de janeiro de 2026, turistas de fora do Espaço Econômico Europeu pagam 32 euros para acessar o museu, valor 45% superior ao cobrado dos visitantes europeus.</p>
-<p>A medida tem como objetivo financiar a modernização das instalações do museu, que recebeu um grande número de visitantes no ano anterior.</p>
-<p>Alguns turistas manifestaram insatisfação com a diferenciação de preços, destacando a disparidade em relação ao custo para visitantes europeus e o impacto financeiro para quem viaja de países mais distantes.</p>
-<p>Outros visitantes consideraram os novos valores compatíveis com os preços praticados em museus de outros países europeus.</p>
-<p>Além do Louvre, outros monumentos em Paris também adotaram tarifas diferenciadas para turistas internacionais.</p>
-<p>A decisão enfrenta críticas de sindicatos do museu, que a classificam como ofensiva em termos filosóficos, sociais e humanos, em meio a protestos por melhores condições de trabalho.</p>
+<p>Nicola Ivaldo, alpinista experiente e cirurgião ortopédico, desapareceu após sair sozinho para uma escalada no Piemonte, região dos Alpes italianos. Seu carro foi encontrado na vila de Castello di Pontechianale, indicando que ele possivelmente havia escalado o Monviso ou o Visolotto, picos próximos com altitudes superiores a 3.300 metros.</p>
+<p>As buscas iniciais envolveram mais de 50 socorristas que percorreram a região a pé e helicópteros que realizaram voos de reconhecimento. A chegada precoce da neve no final de setembro interrompeu as operações, já que as condições tornaram a busca inviável.</p>
+<p>Em julho do ano seguinte, com o derretimento da neve, as buscas foram retomadas com o auxílio de drones que capturaram milhares de imagens das encostas. Essas imagens foram analisadas por um software de inteligência artificial que identificou pontos de interesse para os socorristas.</p>
+<p>Três dias após a retomada das buscas, o corpo de Ivaldo foi encontrado em um barranco na face norte do Monviso, a aproximadamente 3.150 metros de altitude. O resgate foi realizado por helicóptero, com a identificação de um capacete vermelho sendo crucial para a localização.</p>
+<p>O uso combinado de drones e inteligência artificial demonstrou potencial para aprimorar operações de busca e resgate em terrenos montanhosos, especialmente em áreas de difícil acesso, podendo ser integrado a métodos tradicionais em futuras ocorrências.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
